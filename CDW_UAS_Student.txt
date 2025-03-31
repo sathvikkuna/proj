@@ -1,0 +1,4 @@
+FIRST_NAME,MIDDLE_NAME,LAST_NAME,ROLL,STREET_NAME,APT_NO,STUD_CITY,STUD_STATE,STUD_COUNTRY,STUD_ZIP,STUD_PHONE,STUD_EMAIL
+Venkat,Sai Sathvik,Kuna,078,tir nagar,gsa,Tirupati,AP,India,517501,9876543210,satsus@gmail.com
+sushmitha,pn,r,019,blr nagar,msr,Bengaluru,KA,India,560045,1234567890,sush@gmail.com
+Mahesh,,k,076,bz street,via,Vijayawada,AP,India,504207,1234567889,mah@gmail.com

@@ -1,0 +1,4 @@
+Day,Month,Year,Student_Roll,Department_No,College_Name,Course_Name,Faculty_Name,Result_Marks
+30,03,2025,78,1,srm ktr,CC,prabakaran,90
+30,03,2025,76,2,srm ktr,DSA,vasanth,70
+29,03,2025,19,1,srm ktr,OOPS,prabakaran,70
