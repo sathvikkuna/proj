@@ -94,3 +94,5 @@ CREATE TABLE CDW_UAS_F_AGG_DATA (
     MAXIMUM_MARK int,
     CREATED_DATE DATE
 );
+
+not isnull(lkp_STUD_ID) and (lkp_STUD_F_NAME!=o_fname or lkp_STUD_M_NAME!=o_mname or lkp_STUD_L_NAME!=o_lname or lkp_STUD_STREET!=o_street or lkp_STUD_CITY!=STUD_CITY or lkp_STUD_STATE!=STUD_STATE or lkp_STUD_COUNTRY!=STUD_COUNTRY or lkp_STUD_ZIP!=o_zip or lkp_STUD_PHONE!=o_phone or STUD_EMAIL!=lkp_STUD_EMAIL)
